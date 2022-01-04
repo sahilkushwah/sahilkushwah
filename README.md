@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @sahilkushwah
-- 👀 I’m interested in Blockchain development, android development, machine learning, artificial intelligence, web development...
-- 🌱 I’m currently learning javascript, solidity, python
-- 📫 Reach me through twitter- @sahilkushwah778 or Gmail- kushwahsahil512@gmail.com
+hello, my name is sahil kushwah
 
-<!---
-sahilkushwah/sahilkushwah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About me-
+currently I am studying computer engineering
+learning more about blockchain development and web development 
+looking forward to collaborate with other people so i can learn new things
+languages known: css, html, javascript, java, c++ 
+I have to learn more because i have to surpass someone that insulted me...
